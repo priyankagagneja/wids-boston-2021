@@ -2,7 +2,7 @@
 mainfont: Helvetica
 ---
 
-![](images/logo/wids-2color-stacked.png)
+![](images/logo/wids-matrix-1line.png)
 
 # WiDS Boston 2021
 
@@ -22,7 +22,7 @@ This is a virtual event. Please register [here](https://www.eventbrite.com/e/wid
 
 ## Agenda
 
-The full agenda for this event is available [here](./agenda.html)
+The full agenda for this event is available [here](./agenda.md)
 
 ## Speakers
 
