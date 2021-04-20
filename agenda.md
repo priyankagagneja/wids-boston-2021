@@ -57,7 +57,7 @@ This is a virtual event. Please register [here](https://www.eventbrite.com/e/wid
 
 ------------------------------------------------------------------------
 
-### Agenda Details
+### Talk Details
 
 **Monica Ramirez - Community Science and Data Integration to Address Environmental Health Disparities**
 

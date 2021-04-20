@@ -8,11 +8,7 @@ mainfont: Helvetica
 
 ## Applications of Data Science
 
-**April 29, 2021**
-
-**12:00 pm - 1:30 pm ET**
-
-**April 30, 2021**
+**April 29, 2021** & **April 30, 2021**
 
 **12:00 pm - 1:30 pm ET**
 
@@ -35,6 +31,8 @@ The full agenda for this event is available [here](agenda.md)
 <img src="images/speaker/monica.png" width="275" height="215"/>
 
 Mónica Ramírez-Andreotta is a community-engaged environmental health scientist and assistant professor of Environmental Science with joint appointments in the College of Public Health and Global Change-Graduate Interdisciplinary Program at the University of Arizona. Ramírez-Andreotta's laboratory uses an environmental justice framework to investigate the fate and transport of pollutants in environmental systems, exposure pathways, cultural models of communication, and methods to improve environmental health literacy. As such, she is often found listening to and training communities and hosting community gatherings and data sharing events. Ramírez-Andreotta is a playful, highly spirited individual who enjoys hanging with her boo, exercise, and democratizing science.
+
+**Other Speakers:**
 
 #### Johanna Pingel
 
@@ -62,7 +60,9 @@ Dr. Walker is a Research Assistant Professor in Department of Health Sciences wi
 
 #### Sara Saperstein
 
-*Using data science and analytics together for effective enterprise cyber security decision making.* <img src="images/speaker/sara.png" width="200" height="200"/>
+*Using data science and analytics together for effective enterprise cyber security decision making.*
+
+<img src="images/speaker/sara.png" width="200" height="200"/>
 
 She has developed underwriting models to predict mortality and automate risk class assignments, and actively contributes to Boston Data Science community. With over 10 years of experience in data science, Sara currently heads the Cybersecurity Analytics and Data Science team at MassMutual, where she and her team build data science and analytics solutions to help MassMutual lead the industry in cyber resilience and earn consumer trust.
 
