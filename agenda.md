@@ -2,12 +2,11 @@
 mainfont: Helvetica
 ---
 
-![](images/logo/wids-matrix-1line.png)
+[![](images/logo/wids-matrix-1line.png "WiDS Boston")](index.md)
 
 # WiDS Boston 2021
 
-## Applications of Data Science         
-
+## Applications of Data Science
 
 ```{r, echo=FALSE ,message = FALSE , warning = FALSE}
 library(tidyverse)
@@ -51,6 +50,10 @@ data.frame(cbind(
   tab_header(title = md("30 Apr 2021"))
 
 ```
+
+------------------------------------------------------------------------
+
+This is a virtual event. Please register [here](https://www.eventbrite.com/e/wids-boston-2021-tickets-151146851301).
 
 ------------------------------------------------------------------------
 
