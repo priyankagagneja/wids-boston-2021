@@ -16,7 +16,7 @@ Please join us as we explore wide variety of applications of data science and hi
 
 This is a virtual event.
 
-#### **REGISTER HERE** {style="color: green"}
+#### [**REGISTER HERE**](https://www.eventbrite.com/e/wids-boston-2021-tickets-151146851301). {style="color: green"}
 
 ## Agenda
 
